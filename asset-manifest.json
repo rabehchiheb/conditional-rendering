@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/conditional-rendering/./static/css/main.6c323c2c.chunk.css",
+    "main.js": "/conditional-rendering/./static/js/main.4c2f297b.chunk.js",
+    "main.js.map": "/conditional-rendering/./static/js/main.4c2f297b.chunk.js.map",
+    "runtime~main.js": "/conditional-rendering/./static/js/runtime~main.440ab7fb.js",
+    "runtime~main.js.map": "/conditional-rendering/./static/js/runtime~main.440ab7fb.js.map",
+    "static/js/2.645460b3.chunk.js": "/conditional-rendering/./static/js/2.645460b3.chunk.js",
+    "static/js/2.645460b3.chunk.js.map": "/conditional-rendering/./static/js/2.645460b3.chunk.js.map",
+    "index.html": "/conditional-rendering/./index.html",
+    "precache-manifest.4b032896dc2fef7896aa564ae5256751.js": "/conditional-rendering/./precache-manifest.4b032896dc2fef7896aa564ae5256751.js",
+    "service-worker.js": "/conditional-rendering/./service-worker.js",
+    "static/css/main.6c323c2c.chunk.css.map": "/conditional-rendering/./static/css/main.6c323c2c.chunk.css.map",
+    "static/media/amira.jpg": "/conditional-rendering/./static/media/amira.0206d9d5.jpg",
+    "static/media/naymar.jpg": "/conditional-rendering/./static/media/naymar.0157a6f1.jpg"
+  }
+}
